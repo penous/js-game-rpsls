@@ -1,0 +1,30 @@
+button {
+  padding: 5px 10px;
+}
+
+.container-fluid {
+  background-color: #b4efde;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.result {
+  padding: 50px;
+}
+.result div {
+  padding: 10px;
+}
+
+main {
+  text-align: center;
+}
+
+.player.choice ul {
+  padding-left: 0;
+}
+.player.choice ul li {
+  list-style-type: none;
+  display: inline;
+}
+
+/*# sourceMappingURL=style.css.map */
